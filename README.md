@@ -1,8 +1,7 @@
 
 <a href = "https://summerofcode.withgoogle.com/projects/?sp-search=Kaush#4988663051583488">  ![Summer-of-code](files/GSoC_header.png)</a>
 
-
-<p><i><h2 align = "center"> Refurbishing Atarashi @<a href = "https://www.fossology.org/">FOSSology </a></h2></i></p>
+<i><h2 align = "center"> Refurbishing Atarashi @<a href = "https://www.fossology.org/">FOSSology </a></h2></i>
 
 <br>
 <h1 align = "center">Project Details</h1>
