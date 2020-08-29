@@ -2,7 +2,7 @@
 <a href = "https://summerofcode.withgoogle.com/projects/?sp-search=Kaush#4988663051583488">  ![Summer-of-code](files/GSoC_header.png)</a>
 
 
-<div align = "center"><i><h2>Refurbishing Atarashi @ <a href = "https://www.fossology.org/">FOSSology </a> </h2></i>
+<div align = "center"><h2><i>Refurbishing Atarashi @ <a href = "https://www.fossology.org/">FOSSology </a> </i></h2></div>
 
 <p align="center">
 	<a href="#project-details">Project Details</a> | 
@@ -10,7 +10,7 @@
 	<a href="#deliverables">Deliverables</a> | 
 	<a href="#future-goals">Future Goals</a> | 
 	<a href="#key-takeaways">Key Takeaways</a>
-</p></div>
+</p>
 
 <br>
 <h1 align = "center" id = "project-details">Project Details</h1>
