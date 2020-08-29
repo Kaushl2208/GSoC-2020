@@ -12,7 +12,7 @@
 	<a href="#key-takeaways">Key Takeaways</a>
 </p>
 
-<br>
+
 <h1 align = "center" id = "project-details">Project Details</h1>
 
 Atarashi scans for license statements in open source software, focusing on text statistics and information retrieval algorithms. It was designed to work stand-alone and with FOSSology Software. Atarashi is currently using text similarity algorithm based approach to give proper results. It is a well compiled piece of software with many little components(agents). Each agent has a specific form of implementation and this is the reason there is also a variety of accuracy results of the agents.
