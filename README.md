@@ -2,10 +2,18 @@
 <a href = "https://summerofcode.withgoogle.com/projects/?sp-search=Kaush#4988663051583488">  ![Summer-of-code](files/GSoC_header.png)</a>
 
 
-<div align = "center"><i><h2>Refurbishing Atarashi @ <a href = "https://www.fossology.org/">FOSSology </a> </h2></i></div>
+<div align = "center"><i><h2>Refurbishing Atarashi @ <a href = "https://www.fossology.org/">FOSSology </a> </h2></i>
+
+<p align="center">
+	<a href="#project-details">Project Details</a> | 
+	<a href="#contributions">Contributions</a> | 
+	<a href="#deliverables">Deliverables</a> | 
+	<a href="#future-goals">Future Goals</a> | 
+	<a href="#key-takeaways">Key Takeaways</a>
+</p></div>
 
 <br>
-<h1 align = "center">Project Details</h1>
+<h1 align = "center" id = "project-details">Project Details</h1>
 
 Atarashi scans for license statements in open source software, focusing on text statistics and information retrieval algorithms. It was designed to work stand-alone and with FOSSology Software. Atarashi is currently using text similarity algorithm based approach to give proper results. It is a well compiled piece of software with many little components(agents). Each agent has a specific form of implementation and this is the reason there is also a variety of accuracy results of the agents.
 
@@ -13,7 +21,7 @@ My proposed ideas and objectives revolved around Atarashi entirely i.e. from inc
 
 <br>
 
-<h1 align = "center"> Contributions</h1>
+<h1 align = "center" id = "contributions"> Contributions</h1>
 <h2>1. Nirjas ~ নির্যাস <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/joypixels/257/scroll_1f4dc.png" width="25"></h2>
 <p><i>A Python library for Comments and Source Code Extraction</i></p>
 
@@ -105,11 +113,6 @@ The accuracy of the models is calculated through the [evaluator script](https://
 
     We generated about *1 million files using 447 license files*. ***Voilaa !!***
 
-
-- ### What else is needed to be done?
-
-    After looking at 1 million files the first thought that came into our mind was of "How many of it is relevant and what is the frequency of noise in it?". Yes, the dataset now needed chopping off and in other words normalization on the basis of relevance.
-    
     Few more things that needed to be done are:
 
     - Shifting from txt files to SPDX JSON endpoint
@@ -123,7 +126,7 @@ The accuracy of the models is calculated through the [evaluator script](https://
 
 
 <br>
-<h1 align="center"> Deliverables <img src="https://media1.tenor.com/images/7d87e607145c7156f2e5321d1751e813/tenor.gif" width="40"></h1>
+<h1 align="center" id = "deliverables"> Deliverables <img src="https://media1.tenor.com/images/7d87e607145c7156f2e5321d1751e813/tenor.gif" width="40"></h1>
 
 | Tasks   | Planned | Completed     | Remarks    |
 | :---:       |    :----:   |    :---:      |    :---:      |
@@ -133,7 +136,7 @@ The accuracy of the models is calculated through the [evaluator script](https://
 | Shifting from Argparse to Plac     | Yes       | :x: | It is in the queue for now.  |
 
 <br>
-<h1 align="center"> Future Goals  <img src="https://thumbs.gfycat.com/LongWateryAmericansaddlebred-max-1mb.gif" width="40"></h1>
+<h1 align="center" id = "future-goals"> Future Goals  <img src="https://thumbs.gfycat.com/LongWateryAmericansaddlebred-max-1mb.gif" width="40"></h1>
 
 
 1. Nirjas still needs implementation of a fully round up comment extraction approach.
@@ -145,7 +148,7 @@ The accuracy of the models is calculated through the [evaluator script](https://
 
 
 <br> 
-<h1 align="center"> Key Takeaways <img src="https://www.netanimations.net/livres-13.gif" width="60"></h1>
+<h1 align="center" id = "key-takeaways"> Key Takeaways <img src="https://www.netanimations.net/livres-13.gif" width="60"></h1>
 
 - Learnt the art of collaboration and working on real-time software development.
 - Improved programming skills, including OOP concepts and Modular Programming.
